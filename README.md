@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://gitmax-profile-booster.vercel.app/gitmax-profile-banner.gif" width="100%" alt="Maaskk animated ANSI security banner" />
+  <img src="https://gitmax-profile-booster.vercel.app/gitmax-soulslike-knight.gif" width="630" alt="Maaskk animated Soulslike knight at a campfire" />
 
   # Maaskk
 
@@ -20,4 +20,4 @@
 - Improving software quality through small, consistent releases
 - Exploring security engineering and open-source systems
 
-> The animated ANSI artwork is an original GitMax profile banner generated for this profile.
+> Animated pixel artwork by [Szadi art.](https://szadiart.itch.io/2d-soulslike-character), used under the creator's License for Everyone.
